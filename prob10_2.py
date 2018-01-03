@@ -1,7 +1,7 @@
 '''
     prob 10번 lassevk 의 풀이
     https://projecteuler.net/thread=10#1936 참조
-    엄청나게 빠른데 알고리즘이 이해가 안됌
+    에라토스테네스의 체 알고리즘 사용
 '''
 
 marked = [0] * 2000000
